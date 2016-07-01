@@ -1,5 +1,5 @@
 [package]
-name = "ss_cipher"
+name = "fio_cipher"
 version = "0.1.0"
 authors = ["xushuai <dyxushuai@gmail.com>"]
 
